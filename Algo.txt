@@ -3,6 +3,7 @@
 3. Call restuarant
 4. Complain they don't accept BTC
 5. Wait on delivery driver
-7. Tip driver
+5a. Complain to driver that 15% is a perfectly fine tip
+6. Tip driver
 7. Eat pizza
 8. Throw away
